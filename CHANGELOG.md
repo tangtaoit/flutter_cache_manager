@@ -1,3 +1,27 @@
+## [0.3.2] - 2019-03-06
+
+* Fixed image loading after loading failed once.
+
+## [0.3.1] - 2019-02-27
+
+* Added method to clear cache
+
+## [0.3.0] - 2019-02-18
+
+* Complete refactor of library
+* Use of SQFlite instead of shared preferences for cache info
+* Added the option to use a custom file fetcher (for example for firebase)
+* Support for AndroidX
+
+## [0.2.0] - 2018-10-13
+
+* Fixed library compatibility issue
+
+## [0.1.2] - 2018-08-30
+
+* Fixed library compatibility issue
+* Improved some synchronization
+
 ## [0.1.1] - 2018-04-27
 
 * Fixed some issues when file could not be downloaded the first time it is trying to be retrieved.
